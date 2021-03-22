@@ -1,0 +1,9 @@
+C:\src\env-converter\Converter\bin\Debug\netcoreapp3.1\Converter.deps.json
+C:\src\env-converter\Converter\bin\Debug\netcoreapp3.1\Converter.dll
+C:\src\env-converter\Converter\bin\Debug\netcoreapp3.1\Converter.pdb
+C:\src\env-converter\Converter\obj\Debug\netcoreapp3.1\Converter.AssemblyInfoInputs.cache
+C:\src\env-converter\Converter\obj\Debug\netcoreapp3.1\Converter.AssemblyInfo.cs
+C:\src\env-converter\Converter\obj\Debug\netcoreapp3.1\Converter.csproj.CoreCompileInputs.cache
+C:\src\env-converter\Converter\obj\Debug\netcoreapp3.1\Converter.dll
+C:\src\env-converter\Converter\obj\Debug\netcoreapp3.1\Converter.pdb
+C:\src\env-converter\Converter\obj\Debug\netcoreapp3.1\Converter.csprojAssemblyReference.cache
