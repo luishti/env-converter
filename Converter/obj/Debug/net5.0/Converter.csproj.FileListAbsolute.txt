@@ -1,0 +1,12 @@
+C:\src\env-converter\Converter\bin\Debug\net5.0\Converter.deps.json
+C:\src\env-converter\Converter\bin\Debug\net5.0\Converter.dll
+C:\src\env-converter\Converter\bin\Debug\net5.0\ref\Converter.dll
+C:\src\env-converter\Converter\bin\Debug\net5.0\Converter.pdb
+C:\src\env-converter\Converter\obj\Debug\net5.0\Converter.csproj.AssemblyReference.cache
+C:\src\env-converter\Converter\obj\Debug\net5.0\Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\env-converter\Converter\obj\Debug\net5.0\Converter.AssemblyInfoInputs.cache
+C:\src\env-converter\Converter\obj\Debug\net5.0\Converter.AssemblyInfo.cs
+C:\src\env-converter\Converter\obj\Debug\net5.0\Converter.csproj.CoreCompileInputs.cache
+C:\src\env-converter\Converter\obj\Debug\net5.0\Converter.dll
+C:\src\env-converter\Converter\obj\Debug\net5.0\ref\Converter.dll
+C:\src\env-converter\Converter\obj\Debug\net5.0\Converter.pdb

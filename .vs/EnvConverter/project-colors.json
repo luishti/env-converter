@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "af22ba7b-c50f-4abc-b6b0-c7ba4c8ba0b3": {
+      "ProjectGuid": "af22ba7b-c50f-4abc-b6b0-c7ba4c8ba0b3",
+      "DisplayName": "Converter.UI",
+      "ColorIndex": 0
+    },
+    "4004df59-9bff-469d-a4e1-5425c6a41b3b": {
+      "ProjectGuid": "4004df59-9bff-469d-a4e1-5425c6a41b3b",
+      "DisplayName": "Converter",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

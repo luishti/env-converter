@@ -6,4 +6,5 @@ C:\src\env-converter\Converter\obj\Debug\netcoreapp3.1\Converter.AssemblyInfo.cs
 C:\src\env-converter\Converter\obj\Debug\netcoreapp3.1\Converter.csproj.CoreCompileInputs.cache
 C:\src\env-converter\Converter\obj\Debug\netcoreapp3.1\Converter.dll
 C:\src\env-converter\Converter\obj\Debug\netcoreapp3.1\Converter.pdb
-C:\src\env-converter\Converter\obj\Debug\netcoreapp3.1\Converter.csprojAssemblyReference.cache
+C:\src\env-converter\Converter\obj\Debug\netcoreapp3.1\Converter.csproj.AssemblyReference.cache
+C:\src\env-converter\Converter\obj\Debug\netcoreapp3.1\Converter.GeneratedMSBuildEditorConfig.editorconfig

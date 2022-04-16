@@ -4,7 +4,6 @@ C:\src\env-converter\Converter.UI\bin\Debug\netcoreapp3.1\Converter.UI.runtimeco
 C:\src\env-converter\Converter.UI\bin\Debug\netcoreapp3.1\Converter.UI.runtimeconfig.dev.json
 C:\src\env-converter\Converter.UI\bin\Debug\netcoreapp3.1\Converter.UI.dll
 C:\src\env-converter\Converter.UI\bin\Debug\netcoreapp3.1\Converter.UI.pdb
-C:\src\env-converter\Converter.UI\obj\Debug\netcoreapp3.1\Converter.UI.csprojAssemblyReference.cache
 C:\src\env-converter\Converter.UI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
 C:\src\env-converter\Converter.UI\obj\Debug\netcoreapp3.1\App.g.cs
 C:\src\env-converter\Converter.UI\obj\Debug\netcoreapp3.1\Converter.UI_MarkupCompile.cache
@@ -19,3 +18,5 @@ C:\src\env-converter\Converter.UI\obj\Debug\netcoreapp3.1\Converter.UI.genruntim
 C:\src\env-converter\Converter.UI\bin\Debug\netcoreapp3.1\Converter.dll
 C:\src\env-converter\Converter.UI\bin\Debug\netcoreapp3.1\Converter.pdb
 C:\src\env-converter\Converter.UI\obj\Debug\netcoreapp3.1\Converter.UI.csproj.CopyComplete
+C:\src\env-converter\Converter.UI\obj\Debug\netcoreapp3.1\Converter.UI.csproj.AssemblyReference.cache
+C:\src\env-converter\Converter.UI\obj\Debug\netcoreapp3.1\Converter.UI.GeneratedMSBuildEditorConfig.editorconfig
